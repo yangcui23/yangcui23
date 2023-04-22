@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Yang
 #### I am a full stack web developer👨‍💻
-![I am a full stack web developer👨‍💻](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a full stack web developer👨‍💻](https://rare-gallery.com/uploads/posts/560496-interstellar.jpg)
 
 Born in China, moved to USA at the age of 13, bilingual, speak both English and Chinese. I am currently 25 years old, started in Coding Dojo boot-camp in 2023, hopefully can start a new career here.
 
