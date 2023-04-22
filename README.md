@@ -4,9 +4,9 @@
 
 Born in China, moved to USA at the age of 13, bilingual, speak both English and Chinese. I am currently 25 years old, started in Coding Dojo boot-camp in 2023, hopefully can start a new career here. I love music, my favorite genre is Hip-Hop, but my favorite artist is The Weeknd. Dota 2 enthusiast.
 
-Skills: / HTML / CSS / JS / MongoDB / Express / React / Node / TypeScript / Python /
-Framework : / Vite / Bootstrap / Tailwind CSS / Flask / jQuery / Jinja2
-Database : / MySQL / MongoDB
+### Skills: / HTML / CSS / JS / MongoDB / Express / React / Node / TypeScript / Python 
+### Framework : / Vite / Bootstrap / Tailwind CSS / Flask / jQuery / Jinja2
+### Database : / MySQL / MongoDB
 
 
 - 🔭 I’m currently working on a MERN Project 
