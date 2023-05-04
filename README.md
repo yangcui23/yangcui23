@@ -5,12 +5,12 @@
 Born in China, moved to USA at the age of 13, bilingual, speak both English and Chinese. I am currently 25 years old, started in Coding Dojo boot-camp in 2023, hopefully can start a new career here. I love music, my favorite genre is Hip-Hop, but my favorite artist is The Weeknd. Dota 2 enthusiast.
 
 ### Skills: / HTML / CSS / JS / MongoDB / Express / React / Node / TypeScript / Python 
-### Framework : / Vite / Bootstrap / Tailwind CSS / Flask / jQuery / Jinja2
+### Framework : / Vite / Bootstrap / Tailwind CSS / Flask / jQuery / Jinja2 
 ### Database : / MySQL / MongoDB
 
 
 - 🔭 I’m currently working on a MERN Project 
-- 🌱 I’m currently learning TypeScript 
+- 🌱 I’m currently learning JAVA
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yangcui23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yang-cui-477127266/)  
