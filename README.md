@@ -23,6 +23,6 @@ Born in China, moved to USA at the age of 13, bilingual, speak both English and 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yangcui23&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yangcui23)  
+![GitHub Activity Graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yangcui23&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))  
 
 ![Profile views](https://gpvc.arturio.dev/yangcui23)  
