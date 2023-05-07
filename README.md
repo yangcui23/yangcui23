@@ -4,7 +4,7 @@
 
 
 
-Born in China, moved to USA at the age of 13, bilingual, speak both English and Chinese. I am currently 25 years old, started in Coding Dojo boot-camp in 2023, hopefully can start a new career here. I love music, my favorite genre is Hip-Hop, but my favorite artist is The Weeknd. Dota 2 enthusiast.
+Born in China, moved to USA at the age of 13, bilingual, speak both English and Chinese. I am currently 25 years old, started in Coding Dojo boot-camp in 2023, hopefully can start a new career here. I love music, my favorite genre is Hip-Hop, but my favorite artist is The Weeknd. Dota 2 enthusiast. DENVER Forever!!!!!
 
 
 
