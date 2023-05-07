@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Yang
 ## I am a full stack web developer👨‍💻
-[<img src='https://media.giphy.com/media/yw8sVJoL2S9U9llQmm/giphy.gif' alt='github' height='100'>]
+<img src='https://media.giphy.com/media/yw8sVJoL2S9U9llQmm/giphy.gif' alt='github' height='100' width='100'>
 
 
 
