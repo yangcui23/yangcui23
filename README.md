@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Yang
 ## I am a full stack web developer👨‍💻
-![I am a full stack web developer👨‍💻](https://media.giphy.com/media/ZbnzRnxxX0bOB0Sfwd/giphy.gif)
+![I am a full stack web developer👨‍💻](https://media.giphy.com/media/yw8sVJoL2S9U9llQmm/giphy.gif)
 
 
 
