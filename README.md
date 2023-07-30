@@ -8,7 +8,7 @@ Born in China, moved to USA at the age of 13, bilingual, speak both English and 
 
 
 
-### Skills: / HTML / CSS / JS / MongoDB / Express / React / Node / TypeScript / Python 
+### Skills: / HTML / CSS / JS / MongoDB / Express / React / Node / TypeScript / Python / Java
 ### Framework : / Vite / Bootstrap / Tailwind CSS / Flask / jQuery / Jinja2 
 ### Database : / MySQL / MongoDB
 
