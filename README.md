@@ -14,7 +14,6 @@ Born in China, moved to USA at the age of 13, bilingual, speak both English and 
 
 
 - 🔭 I’m currently working on a MERN Project 
-- 🌱 I’m currently learning JAVA
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yangcui23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yang-cui-477127266/)  
